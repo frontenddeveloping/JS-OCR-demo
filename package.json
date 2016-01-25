@@ -1,0 +1,14 @@
+{
+  "name": "js-ocr",
+  "version": "1.0.0",
+  "description": "javascript OCR example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frontenddeveloping/js-ocr.git"
+  },
+  "keywords": [
+    "ocr",
+    "javascript"
+  ],
+  "license": "MIT"
+}
